@@ -1,17 +1,19 @@
-# 🚀 Meus Estudos de Java - IFPI
+# 🚀 Meus Estudos (ADS) - IFPI
 
-Bem-vindo ao meu portfólio de estudos da faculdade! Aqui estou documentando minha jornada de transição para a programação orientada a objetos e desenvolvendo meus primeiros códigos em Java.
+Bem-vindo ao meu portfólio de estudos da faculdade! Aqui estou documentando minha jornada de programação.
 
 ## 📚 Tópicos e Projetos
 
-* **Algoritmos Iniciais:** Estruturas de repetição (`for`), testes condicionais (`if/else`) e tratamento de entrada com `Scanner`.
-* **Lógica Aplicada:** Resolução de problemas práticos, como contagem de pares/ímpares e descobrimento de maior/menor número.
+* **Algoritmos Iniciais:** Estruturas de repetição (`for`), testes condicionais (`if/else`) e `Scanner`.
+* **Lógica Aplicada:** Resolução de problemas práticos, contagem e validações.
 
 ---
 
-### 💻 Exemplos de Código
+## 💻 Exemplos de Código
 
-#### 1. Verificador de Maior e Menor Número
+<details>
+<summary><b>Clique para ver o código: Verificador de Maior e Menor Número</b></summary>
+
 ```java
 Scanner scanner = new Scanner(System.in);
 
