@@ -14,7 +14,9 @@ Bem-vindo ao meu portfólio de estudos da faculdade! Aqui estou documentando min
 <details>
 <summary><b>Clique para ver o código: Verificador de Maior e Menor Número</b></summary>
 
-```java
+<br> <!-- Isso aqui dá um espacinho extra legal -->
+
+```java <!-- ABRINDO O BLOCO -->
 Scanner scanner = new Scanner(System.in);
 
 System.out.print("Digite o número 1: ");
@@ -37,3 +39,6 @@ for (int i = 2; i <= 5; i++) {
 
 System.out.printf("Maior número = %d%n", maior);
 System.out.printf("Menor número = %d%n", menor);
+``` <!-- FECHANDO O BLOCO NA LINHA DEBAIXO -->
+
+</details>
